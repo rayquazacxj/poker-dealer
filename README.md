@@ -18,5 +18,5 @@
 |5. 顯示發牌數 | 顯示目前的發牌進度。|
 |6. 發牌提醒   | 藉由LED閃爍提醒玩家領取撲克牌。|
 
-cooperate with 顏廷聿
+cooperated with 顏廷聿
 
